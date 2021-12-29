@@ -1,0 +1,16 @@
+#Relational Databases model data by storing rows and columns in tables.
+
+# Database: contains many tables
+
+# Relation (or table): contains tuples and attributes
+
+# Tuple (or row): a set of fields that generally represents an "object" like a person or music track
+
+# Attribute (also column or field): one of possibly many elements of data 
+# corresponding to the object represented by the row
+
+#SQL is the language we use to issue commands to the databse:
+    -Create a table (C)
+    -Retrieve some data and read (R)
+    -Insert data and update (U)
+    -Delete data (D)
